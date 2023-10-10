@@ -2,7 +2,7 @@ import re
 import shutil
 from pathlib import Path
 
-jks_main_dir = Path("[Hyouuma] JK Tights (42-1)")
+jks_main_dir = Path("[Hyouuma] JK Tights (43-1)")
 
 
 def get_jk_paths():
